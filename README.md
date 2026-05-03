@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">⚡ Loller627e9</h1>
+<h3 align="center">🤖 Bot Builder • Automation Addict • Vibe Coder</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Bots;Automating+Everything;Late+Night+Coder;Clean+Code+Only" />
+</p>---
 
-<!--
-**Loller627e9/Loller627e9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
 
-Here are some ideas to get you started:
+- 🤖 I build automation bots
+- ⚡ Turning ideas into working systems
+- 🌙 Coding mostly at night
+- 🔥 Focused on efficiency & clean structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,python,git,github" />
+</p>---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Loller627e9&show_icons=true&theme=tokyonight" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loller627e9&theme=tokyonight" />
+</p>---
+
+🔥 Projects
+
+- 🤖 Automation Bots
+- ⚙️ Scripts & Tools
+- 🧪 Experimental Builds
+
+---
+
+⚡ Philosophy
+
+if (it_can_be_automated) {
+    do_it();
+}
+
+---
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Loller627e9/Loller627e9/output/github-contribution-grid-snake.svg" />
+</p>---
+
+⭐ Vibe
+
+«“Half code. Half chaos. Fully functional.”»
+
+---
